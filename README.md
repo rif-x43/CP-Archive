@@ -7,16 +7,16 @@
 This repository is a centralized hub for all my competitive programming solutions and contest participation. It's organized into two main sections:
 
 ## Platforms
-- Codeforces
-  - 800 Ratings
-  - 900 Ratings
-- LeetCode
-  - Easy
-  - Medium
-  - Hard
-- CodeChef
-- AtCoder
-- HackerRank 
+- [Codeforces](https://github.com/rif-x43/CP-Archive/tree/main/Platforms/Codeforces)
+  - [800 Ratings](https://github.com/rif-x43/CP-Archive/tree/main/Platforms/Codeforces/0800%20Ratings)
+  - [900 Ratings](https://github.com/rif-x43/CP-Archive/tree/main/Platforms/Codeforces/0900%20Ratings)
+- [LeetCode](https://github.com/rif-x43/CP-Archive/tree/main/Platforms/LeetCode)
+  - [Easy]
+  - [Medium]
+  - [Hard]
+- [CodeChef](https://github.com/rif-x43/CP-Archive/tree/main/Platforms/CodeChef)
+- [AtCoder](https://github.com/rif-x43/CP-Archive/tree/main/Platforms/AtCoder)
+- [HackerRank](https://github.com/rif-x43/CP-Archive/tree/main/Platforms/HackerRank)
 
 Solutions to problems from various online competitive programming platforms.
 
@@ -24,7 +24,7 @@ Solutions to problems from various online competitive programming platforms.
 
 | Platform | Profile | Problems Solved |
 |----------|---------|-----------------|
-| 🟦 [Codeforces](https://codeforces.com) | [@rif-x43](https://codeforces.com/profile/rif-x43) | TBD |
+| 🟦 [Codeforces](https://codeforces.com) | [@rif-x43](https://codeforces.com/profile/rif-x43) | 20 |
 | 🟨 [LeetCode](https://leetcode.com) | [@rif-x43](https://leetcode.com/rif-x43) | TBD |
 | 🟫 [CodeChef](https://www.codechef.com) | [@rif_x43](https://www.codechef.com/users/rif_x43) | TBD |
 | ⬜ [AtCoder](https://atcoder.jp) | [@rif_x43](https://atcoder.jp/users/rif_x43) | TBD |
@@ -39,16 +39,16 @@ Archive of all contest participations, including real-time and virtual contests 
 
 #### Real Contests
 Actual contest participations with timestamps and rankings.
-- Real Contests
-  - IAPC Preliminary : AUST CSE Carnival <6.0>
-  - IAPC : AUST CSE Carnival <6.0>
-  - Preliminary Programming Contest :  8th DRMC International Tech Carnival 2025
+- [Real Contests](https://github.com/rif-x43/CP-Archive/tree/main/Contests/Real%20Contests)
+  - [IAPC Preliminary : AUST CSE Carnival <6.0>](https://github.com/rif-x43/CP-Archive/tree/main/Contests/Real%20Contests/IAPC%20Preliminary%20%3A%20AUST%20CSE%20Carnival%20%3C6.0%3E)
+  - [IAPC : AUST CSE Carnival <6.0>](https://github.com/rif-x43/CP-Archive/tree/main/Contests/Real%20Contests/IAPC%20%3A%20AUST%20CSE%20Carnival%20%3C6.0%3E)
+  - [Preliminary Programming Contest :  8th DRMC International Tech Carnival 2025](https://github.com/rif-x43/CP-Archive/tree/main/Contests/Real%20Contests/Preliminary%20Programming%20Contest%20%3A%208th%20DRMC%20International%20Tech%20Carnival%202025)
 
 
 #### Virtual Contests
 Practice contests are done virtually to improve skills and test strategies.
-- Virtual Contests
-  - Codeforces Div 3 (Round)
+- [Virtual Contests](https://github.com/rif-x43/CP-Archive/tree/main/Contests/Virtual%20Contests)
+  - [Codeforces Div 3 (Round 0000)]
 
 
 ### Contest Directory Structure
