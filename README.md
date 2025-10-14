@@ -22,13 +22,13 @@ Solutions to problems from various online competitive programming platforms.
 
 ### Supported Platforms
 
-| Platform | Profile | Problems Solved | Directory |
-|----------|---------|-----------------|-----------|
-| 🟦 [Codeforces](https://codeforces.com) | [@rif-x43](https://codeforces.com/profile/rif-x43) | TBD | [`/Platforms/Codeforces`](./Platforms/Codeforces) |
-| 🟨 [LeetCode](https://leetcode.com) | [@rif-x43](https://leetcode.com/rif-x43) | TBD | [`/Platforms/LeetCode`](./Platforms/LeetCode) |
-| 🟫 [CodeChef](https://www.codechef.com) | [@rif_x43](https://www.codechef.com/users/rif_x43) | TBD | [`/Platforms/CodeChef`](./Platforms/CodeChef) |
-| ⬜ [AtCoder](https://atcoder.jp) | [@rif_x43](https://atcoder.jp/users/rif_x43) | TBD | [`/Platforms/AtCoder`](./Platforms/AtCoder) |
-| 🟩 [HackerRank](https://www.hackerrank.com) | [@rif_x43](https://www.hackerrank.com/rif_x43) | TBD | [`/Platforms/HackerRank`](./Platforms/HackerRank) |
+| Platform | Profile | Problems Solved |
+|----------|---------|-----------------|
+| 🟦 [Codeforces](https://codeforces.com) | [@rif-x43](https://codeforces.com/profile/rif-x43) | TBD |
+| 🟨 [LeetCode](https://leetcode.com) | [@rif-x43](https://leetcode.com/rif-x43) | TBD |
+| 🟫 [CodeChef](https://www.codechef.com) | [@rif_x43](https://www.codechef.com/users/rif_x43) | TBD |
+| ⬜ [AtCoder](https://atcoder.jp) | [@rif_x43](https://atcoder.jp/users/rif_x43) | TBD |
+| 🟩 [HackerRank](https://www.hackerrank.com) | [@rif_x43](https://www.hackerrank.com/rif_x43) | TBD |
 
 
 ## Contests
@@ -115,4 +115,28 @@ This is a personal archive, but suggestions and discussions are welcome!
 - **Found a bug in a solution?** Open an issue
 - **Have a better approach?** Start a discussion
 - **Want to suggest improvements?** Pull requests welcome
+
+
+## Contact
+- @rif-x43
+  <p align="left">
+  <!-- GitHub: white glyph on dark circular background -->
+  <a href="https://github.com/rif-x43" aria-label="GitHub">
+    <img src="https://cdn.simpleicons.org/github/ffffff" width="28" height="28" alt="GitHub"
+         style="background-color:#181717;border-radius:50%;padding:4px;vertical-align:middle;display:inline-block;">
+  </a>&nbsp;
+  <!-- X (Twitter): white glyph on black circular background -->
+  <a href="https://x.com/rif__x43" aria-label="X">
+    <img src="https://cdn.simpleicons.org/x/ffffff" width="28" height="28" alt="X"
+         style="background-color:#000000;border-radius:50%;padding:4px;vertical-align:middle;display:inline-block;">
+  </a>&nbsp;
+  <!-- Facebook: white glyph on Facebook blue circular background -->
+  <a href="https://www.facebook.com/rif.x43i" aria-label="Facebook">
+    <img src="https://cdn.simpleicons.org/facebook/ffffff" width="28" height="28" alt="Facebook"
+         style="background-color:#1877F2;border-radius:50%;padding:4px;vertical-align:middle;display:inline-block;">
+  </a>
+</p>
+<hr width="25%">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Bird.png" alt="Black Bird" width="120" height="120" /><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/White%20Heart.png" alt="White Heart" width="120" height="120" />
 
